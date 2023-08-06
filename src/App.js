@@ -11,7 +11,7 @@ function AppMoonFunction() {
     <>
       {/* <Navbar title="TextUtils" aboutText="About" homeText="Home"/> */}
       <Navbar title="TextUtilsApp"/>
-      <TextForm  title="Utilities"/>
+      {/* <TextForm  title="Utilities"/> */}
       <About/>
     </>
   );
