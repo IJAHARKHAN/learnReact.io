@@ -13,7 +13,7 @@ if(myStyle.color == 'black'){
     color:'white',
     backgroundColor:'black'
   })
-  // setButtonText('Enable white Mode');
+  setButtonText('Enable white Mode');
 }
 
 else{
